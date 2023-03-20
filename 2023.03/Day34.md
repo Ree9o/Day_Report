@@ -1,7 +1,7 @@
 # 取り組んだ課題一覧
 - HTML/CSSアウトプット課題
 ## わかったこと
--  
+
 ```
 display: grid;
   place-items: center;
